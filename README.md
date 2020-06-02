@@ -1,2 +1,3 @@
-# Testing-Git
-This is to test Git.
+Week 3 Discussion Board
+
+This is to test Git!
